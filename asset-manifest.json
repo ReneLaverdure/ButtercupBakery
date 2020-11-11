@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ButtercupBakery/static/css/main.abb21d9f.chunk.css",
-    "main.js": "/ButtercupBakery/static/js/main.88a21795.chunk.js",
-    "main.js.map": "/ButtercupBakery/static/js/main.88a21795.chunk.js.map",
+    "main.js": "/ButtercupBakery/static/js/main.2dcc024d.chunk.js",
+    "main.js.map": "/ButtercupBakery/static/js/main.2dcc024d.chunk.js.map",
     "runtime-main.js": "/ButtercupBakery/static/js/runtime-main.f8ed2748.js",
     "runtime-main.js.map": "/ButtercupBakery/static/js/runtime-main.f8ed2748.js.map",
-    "static/js/2.135941f8.chunk.js": "/ButtercupBakery/static/js/2.135941f8.chunk.js",
-    "static/js/2.135941f8.chunk.js.map": "/ButtercupBakery/static/js/2.135941f8.chunk.js.map",
+    "static/js/2.6c954e07.chunk.js": "/ButtercupBakery/static/js/2.6c954e07.chunk.js",
+    "static/js/2.6c954e07.chunk.js.map": "/ButtercupBakery/static/js/2.6c954e07.chunk.js.map",
     "index.html": "/ButtercupBakery/index.html",
-    "precache-manifest.0c5b8b9692a0e1633f585df0a6738039.js": "/ButtercupBakery/precache-manifest.0c5b8b9692a0e1633f585df0a6738039.js",
+    "precache-manifest.5e20b960f2186d95f044cc399d279a41.js": "/ButtercupBakery/precache-manifest.5e20b960f2186d95f044cc399d279a41.js",
     "service-worker.js": "/ButtercupBakery/service-worker.js",
     "static/css/main.abb21d9f.chunk.css.map": "/ButtercupBakery/static/css/main.abb21d9f.chunk.css.map",
-    "static/js/2.135941f8.chunk.js.LICENSE": "/ButtercupBakery/static/js/2.135941f8.chunk.js.LICENSE",
+    "static/js/2.6c954e07.chunk.js.LICENSE": "/ButtercupBakery/static/js/2.6c954e07.chunk.js.LICENSE",
     "static/media/4-tier-cake.jpg": "/ButtercupBakery/static/media/4-tier-cake.90c5919f.jpg",
     "static/media/Adidas_Logo.png": "/ButtercupBakery/static/media/Adidas_Logo.661a0bbd.png",
     "static/media/Chocolate-Macarons.jpg": "/ButtercupBakery/static/media/Chocolate-Macarons.e8f9266e.jpg",
@@ -78,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f8ed2748.js",
-    "static/js/2.135941f8.chunk.js",
+    "static/js/2.6c954e07.chunk.js",
     "static/css/main.abb21d9f.chunk.css",
-    "static/js/main.88a21795.chunk.js"
+    "static/js/main.2dcc024d.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ButtercupBakery/precache-manifest.0c5b8b9692a0e1633f585df0a6738039.js"
+  "/ButtercupBakery/precache-manifest.5e20b960f2186d95f044cc399d279a41.js"
 );
 
 self.addEventListener('message', (event) => {

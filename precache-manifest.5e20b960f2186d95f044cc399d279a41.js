@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49210b7a1174c279d4282fcf95b001cb",
+    "revision": "cd04cc9d1ce49f48efef3e74e6339980",
     "url": "/ButtercupBakery/index.html"
   },
   {
-    "revision": "1951da5349f72cb5eb86",
+    "revision": "5d75aef1845c8a8bf65f",
     "url": "/ButtercupBakery/static/css/main.abb21d9f.chunk.css"
   },
   {
-    "revision": "ac936aff31e3117fa16a",
-    "url": "/ButtercupBakery/static/js/2.135941f8.chunk.js"
+    "revision": "59ab7f5bafd424609326",
+    "url": "/ButtercupBakery/static/js/2.6c954e07.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/ButtercupBakery/static/js/2.135941f8.chunk.js.LICENSE"
+    "url": "/ButtercupBakery/static/js/2.6c954e07.chunk.js.LICENSE"
   },
   {
-    "revision": "1951da5349f72cb5eb86",
-    "url": "/ButtercupBakery/static/js/main.88a21795.chunk.js"
+    "revision": "5d75aef1845c8a8bf65f",
+    "url": "/ButtercupBakery/static/js/main.2dcc024d.chunk.js"
   },
   {
     "revision": "1dc223ec843ccf77734c",
