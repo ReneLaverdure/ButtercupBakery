@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd04cc9d1ce49f48efef3e74e6339980",
+    "revision": "48acd60033e2cab6a81788f06259056d",
     "url": "/ButtercupBakery/index.html"
   },
   {
